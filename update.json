@@ -1,4 +1,3 @@
 {
-    "latest": "2.5",
-    "updateurl": "https://github.com/Pugovka/mohtools/raw/main/MOH-Tools.lua"
+    "version": "2.7"
 }
